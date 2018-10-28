@@ -1,13 +1,3 @@
-## ブランチ解説
-* feature/enzyme_use
-    * テストをしてみた
-* feature/react_redux_typescript 
-    * react-reduxとtypescriptの使ってみた
-
-## 参考URL
-* https://github.com/Microsoft/TypeScript-React-Starter
-
-
 ## テスト実行方法
 
 ### npm installをしてください。
@@ -22,3 +12,10 @@
 src/components/Hello.test.tsx
 
 ここをみてください。
+
+## ブランチ解説
+* feature/enzyme_use
+    * テストをしてみた
+## 参考URL
+* https://github.com/Microsoft/TypeScript-React-Starter
+
