@@ -15,7 +15,7 @@ class App extends React.Component {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
-          <Hello name="TypeScript" enthusiasmLevel={10} />,
+          <Hello name="TypeScript" enthusiasmLevel={10} />
       </div>
     );
   }
