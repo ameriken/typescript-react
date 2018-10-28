@@ -1,6 +1,7 @@
 import * as React from 'react';
-import './App.css';
+import './css/App.css';
 import Hello from './components/Hello';
+import './css/Hello.css';
 
 import logo from './logo.svg';
 
